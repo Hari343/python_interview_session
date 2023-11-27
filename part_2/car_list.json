@@ -1,0 +1,63 @@
+[
+  {
+      "brand": "Honda",
+      "model": "Fit",
+      "car_type": 1,
+      "fuel_capacity": 30,
+      "milege": 22
+  },
+
+  {
+      "brand": "Toyota",
+      "model": "Camry",
+      "car_type": 2,
+      "fuel_capacity": 20,
+      "milege": 15
+  },
+
+  {
+    "brand": "Toyota",
+    "model": "Corolla",
+    "car_type": 2,
+    "fuel_capacity": 30,
+    "milege": 15
+  },
+
+  {
+    "brand": "Toyota",
+    "model": "GR Supra",
+    "car_type": 5,
+    "fuel_capacity": 30,
+    "milege": 15,
+    "max_acceleration": 5.5,
+    "max_speed": 320
+  },
+
+  {
+    "brand": "Toyota",
+    "model": "RAV4",
+    "car_type": 4,
+    "fuel_capacity": 60,
+    "milege": 10
+
+  },
+
+  {
+    "brand": "McLaren",
+    "model": "P1",
+    "car_type": 5,
+    "fuel_capacity": 25,
+    "milege": 15,
+    "max_acceleration": 6.5,
+    "max_speed": 400
+  },
+
+  {
+    "brand": "Aston Martin",
+    "model": "DBX707",
+    "car_type": 4,
+    "fuel_capacity": 90,
+    "milege": 10
+  }
+
+]
