@@ -41,7 +41,7 @@ Implement the following methods:
 
 In main.py:
 
-1. Instantiate the Showroom class and call the populate_cars method 
+1. Instantiate the Showroom class and call the populate_cars method .
 
 2. Add the following car to the cars list of the showroom instance:
 
@@ -53,8 +53,14 @@ In main.py:
         milege: 20
     }
 
-3. Remove all the cars of type, CarType.HATCHBACK from the showroom cars list
+3. Remove all the cars of type, CarType.HATCHBACK from the showroom cars list.
 
-4. Call the dump_car_list method and write out the current cars list to the file
+4. Call the dump_car_list method and write out the current cars list to the file.
+
+5. Implement a function to read the car_names.txt which contains the names of required cars
+ (eg: Bentley Continental GT) and return a list of boolean values stating whether the car
+  is in the showroom or not. Your search algorithm should be implemented in a scalable and efficient manner. 
+
+
 
 That is all. You have completed Part 2 

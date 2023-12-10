@@ -56,7 +56,7 @@ class TreeNode:
 
 
 # invert binary tree
-def invert_tree(root: TreeNode) -> TreeNode:
+def invert_tree(root: TreeNode) -> TreeNode | None:
     # write your code here
     return None
 
